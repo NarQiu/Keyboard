@@ -1,0 +1,17 @@
+--cpu Cortex-M3
+".\main.o"
+".\lcd_ili9325.o"
+".\open1768_lcd.o"
+".\asciilib.o"
+".\tp_open1768.o"
+".\adc_open1768.o"
+".\joystick_open1768.o"
+".\led_open1768.o"
+".\gpio_lpc17xx.o"
+".\pin_lpc17xx.o"
+".\startup_lpc17xx.o"
+".\system_lpc17xx.o"
+--strict --scatter ".\kf1.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\kf1.map" -o .\kf1.axf

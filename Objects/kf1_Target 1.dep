@@ -1,0 +1,57 @@
+Dependencies for Project 'kf1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x59F1A1DF)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I C:\Users\lab_cpu\Desktop\czwartek\RTE-I C:\Users\lab_cpu\Desktop\czwartek\RTE\Device\LPC1768-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\6.3.0\Board-I C:\Keil_v5\ARM\PACK\Keil\LPC1700as_DFP\2.0.0\Device\Include-D__UVISION_VERSION="513" -D_RTE_ -DLPC175x_6x -DLED_ON_LCD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\6.3.0\Board\Board_LED.h)(0x53BB84C2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54766380)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\LPC17xx.h)(0x4FF55258)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm3.h)(0x5509AC84)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x5509AC84)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x5509AC84)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\system_LPC17xx.h)(0x4DA53FCC)
+I (C:\Users\lab_cpu\Desktop\czwartek\RTE\RTE_Components.h)(0x59F184B2)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver\GPIO_LPC17xx.h)(0x539E8342)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver\PIN_LPC17xx.h)(0x539AD442)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x54766380)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\6.3.0\Board\Board_Joystick.h)(0x53BB84C2)
+F (C:\Keil_v5\ARM\PACK\Keil\LPC1700_Open1768_DFP\2.0.0\Boards\Keil\Open1768\Common\LED_Open1768.c)(0x59EA09E4)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I C:\Users\lab_cpu\Desktop\czwartek\RTE-I C:\Users\lab_cpu\Desktop\czwartek\RTE\Device\LPC1768-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\6.3.0\Board-I C:\Keil_v5\ARM\PACK\Keil\LPC1700as_DFP\2.0.0\Device\Include-D__UVISION_VERSION="513" -D_RTE_ -DLPC175x_6x -DLED_ON_LCD-o .\objects\led_open1768.o --omf_browse .\objects\led_open1768.crf --depend .\objects\led_open1768.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver\PIN_LPC17xx.h)(0x539AD442)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54766380)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x54766380)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver\GPIO_LPC17xx.h)(0x539E8342)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\6.3.0\Board\Board_LED.h)(0x53BB84C2)
+F (C:\Keil_v5\ARM\PACK\Keil\LPC1700_Open1768_DFP\2.0.0\Boards\Keil\Open1768\Common\Joystick_Open1768.c)(0x59E9FDE4)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I C:\Users\lab_cpu\Desktop\czwartek\RTE-I C:\Users\lab_cpu\Desktop\czwartek\RTE\Device\LPC1768-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\6.3.0\Board-I C:\Keil_v5\ARM\PACK\Keil\LPC1700as_DFP\2.0.0\Device\Include-D__UVISION_VERSION="513" -D_RTE_ -DLPC175x_6x -DLED_ON_LCD-o .\objects\joystick_open1768.o --omf_browse .\objects\joystick_open1768.crf --depend .\objects\joystick_open1768.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\LPC17xx.h)(0x4FF55258)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm3.h)(0x5509AC84)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54766380)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x5509AC84)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x5509AC84)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\system_LPC17xx.h)(0x4DA53FCC)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver\PIN_LPC17xx.h)(0x539AD442)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x54766380)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver\GPIO_LPC17xx.h)(0x539E8342)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\6.3.0\Board\Board_Joystick.h)(0x53BB84C2)
+F (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver\GPIO_LPC17xx.c)(0x539E8342)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I C:\Users\lab_cpu\Desktop\czwartek\RTE-I C:\Users\lab_cpu\Desktop\czwartek\RTE\Device\LPC1768-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\6.3.0\Board-I C:\Keil_v5\ARM\PACK\Keil\LPC1700as_DFP\2.0.0\Device\Include-D__UVISION_VERSION="513" -D_RTE_ -DLPC175x_6x -DLED_ON_LCD-o .\objects\gpio_lpc17xx.o --omf_browse .\objects\gpio_lpc17xx.crf --depend .\objects\gpio_lpc17xx.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\LPC17xx.h)(0x4FF55258)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm3.h)(0x5509AC84)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54766380)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x5509AC84)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x5509AC84)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\system_LPC17xx.h)(0x4DA53FCC)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver\GPIO_LPC17xx.h)(0x539E8342)
+F (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver\PIN_LPC17xx.c)(0x539AD442)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I C:\Users\lab_cpu\Desktop\czwartek\RTE-I C:\Users\lab_cpu\Desktop\czwartek\RTE\Device\LPC1768-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\6.3.0\Board-I C:\Keil_v5\ARM\PACK\Keil\LPC1700as_DFP\2.0.0\Device\Include-D__UVISION_VERSION="513" -D_RTE_ -DLPC175x_6x -DLED_ON_LCD-o .\objects\pin_lpc17xx.o --omf_browse .\objects\pin_lpc17xx.crf --depend .\objects\pin_lpc17xx.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\LPC17xx.h)(0x4FF55258)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm3.h)(0x5509AC84)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54766380)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x5509AC84)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x5509AC84)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\system_LPC17xx.h)(0x4DA53FCC)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver\PIN_LPC17xx.h)(0x539AD442)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x54766380)
+F (RTE\Device\LPC1768\RTE_Device.h)(0x53B11578)()
+F (RTE\Device\LPC1768\startup_LPC17xx.s)(0x4DA53FCC)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Users\lab_cpu\Desktop\czwartek\RTE-I C:\Users\lab_cpu\Desktop\czwartek\RTE\Device\LPC1768-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\6.3.0\Board-I C:\Keil_v5\ARM\PACK\Keil\LPC1700as_DFP\2.0.0\Device\Include--pd "__UVISION_VERSION SETA 513" --pd "_RTE_ SETA 1" --pd "LPC175x_6x SETA 1"--list .\listings\startup_lpc17xx.lst --xref -o .\objects\startup_lpc17xx.o --depend .\objects\startup_lpc17xx.d)
+F (RTE\Device\LPC1768\system_LPC17xx.c)(0x4F8EB40E)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I C:\Users\lab_cpu\Desktop\czwartek\RTE-I C:\Users\lab_cpu\Desktop\czwartek\RTE\Device\LPC1768-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\6.3.0\Board-I C:\Keil_v5\ARM\PACK\Keil\LPC1700as_DFP\2.0.0\Device\Include-D__UVISION_VERSION="513" -D_RTE_ -DLPC175x_6x -DLED_ON_LCD-o .\objects\system_lpc17xx.o --omf_browse .\objects\system_lpc17xx.crf --depend .\objects\system_lpc17xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54766380)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\LPC17xx.h)(0x4FF55258)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm3.h)(0x5509AC84)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h)(0x5509AC84)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h)(0x5509AC84)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\system_LPC17xx.h)(0x4DA53FCC)

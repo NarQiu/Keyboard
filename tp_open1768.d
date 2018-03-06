@@ -1,0 +1,9 @@
+.\tp_open1768.o: RTE\Device\LPC1768\TP_Open1768.c
+.\tp_open1768.o: RTE\Device\LPC1768\TP_Open1768.h
+.\tp_open1768.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\lpc17xx.h
+.\tp_open1768.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm3.h
+.\tp_open1768.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\tp_open1768.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h
+.\tp_open1768.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h
+.\tp_open1768.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\system_LPC17xx.h
+.\tp_open1768.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

@@ -1,0 +1,11 @@
+.\joystick_open1768.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_Open1768_DFP\2.0.0\Boards\Keil\Open1768\Common\Joystick_Open1768.c
+.\joystick_open1768.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\LPC17xx.h
+.\joystick_open1768.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm3.h
+.\joystick_open1768.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\joystick_open1768.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h
+.\joystick_open1768.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h
+.\joystick_open1768.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\system_LPC17xx.h
+.\joystick_open1768.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver\PIN_LPC17xx.h
+.\joystick_open1768.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\joystick_open1768.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver\GPIO_LPC17xx.h
+.\joystick_open1768.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\6.2.0\Board\Board_Joystick.h
